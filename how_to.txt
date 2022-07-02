@@ -1,0 +1,22 @@
+Booking System
+
+What did we do?
+1) Create a github repo
+
+2) Set up the virtual environment with Python Pipenv
+	- install pipenv module
+	- install django and djangorestframework and other dependencies
+	
+
+
+
+3) Create Django Project and RestFramework
+
+4) Create App (Account, API)
+
+5) Set up the database (MongoDB or PostgreSQL)
+
+
+
+
+
